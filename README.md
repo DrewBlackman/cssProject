@@ -1,1 +1,2 @@
 # cssProject
+Personal project
